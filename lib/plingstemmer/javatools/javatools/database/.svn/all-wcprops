@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database
+END
+SQLType.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/SQLType.java
+END
+WordNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/WordNet.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/Database.java
+END
+DBWordNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/DBWordNet.java
+END
+ResultIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/ResultIterator.java
+END
+MySQLDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/MySQLDatabase.java
+END
+OracleDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/OracleDatabase.java
+END
+PostgresDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/database/PostgresDatabase.java
+END

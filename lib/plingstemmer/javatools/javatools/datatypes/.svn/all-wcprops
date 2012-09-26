@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes
+END
+Visitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/Visitor.java
+END
+Tree.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/Tree.java
+END
+BitVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/BitVector.java
+END
+IdPriorityQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/IdPriorityQueue.java
+END
+FinalSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/FinalSet.java
+END
+IntSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/IntSet.java
+END
+IteratorForEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/IteratorForEnumeration.java
+END
+IterableForIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/IterableForIterator.java
+END
+Immutable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/Immutable.java
+END
+SparseVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/SparseVector.java
+END
+Visitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/Visitable.java
+END
+PQRTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/PQRTree.java
+END
+ArrayQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/ArrayQueue.java
+END
+FrequencyVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/FrequencyVector.java
+END
+SVMModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/SVMModel.java
+END
+FinalMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/FinalMap.java
+END
+CombinedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/CombinedIterator.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/Pair.java
+END
+CompressedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/CompressedString.java
+END
+PeekIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/PeekIterator.java
+END
+SmallStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/datatypes/SmallStack.java
+END

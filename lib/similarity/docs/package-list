@@ -1,0 +1,11 @@
+uk.ac.shef.wit.simmetrics
+uk.ac.shef.wit.simmetrics.arbitrators
+uk.ac.shef.wit.simmetrics.basiccontainers
+uk.ac.shef.wit.simmetrics.math
+uk.ac.shef.wit.simmetrics.metrichandlers
+uk.ac.shef.wit.simmetrics.similaritymetrics
+uk.ac.shef.wit.simmetrics.similaritymetrics.costfunctions
+uk.ac.shef.wit.simmetrics.task
+uk.ac.shef.wit.simmetrics.tokenisers
+uk.ac.shef.wit.simmetrics.utils
+uk.ac.shef.wit.simmetrics.wordhandlers

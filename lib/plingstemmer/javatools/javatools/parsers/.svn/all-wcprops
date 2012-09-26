@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/Name.java
+END
+RegularExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/RegularExpression.java
+END
+NumberParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/NumberParser.java
+END
+PlingStemmer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/PlingStemmer.java
+END
+DateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/DateParser.java
+END
+NounGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/NounGroup.java
+END
+NumberFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/NumberFormatter.java
+END
+Char.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/sources/!svn/ver/545/NL2SPARQL/src/javatools/parsers/Char.java
+END
