@@ -1,0 +1,146 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>de.uni_leipzig.simba</groupId>
+ <version>0.1-SNAPSHOT</version>
+ <artifactId>hmm</artifactId>
+ <build>
+  <sourceDirectory>${basedir}/src</sourceDirectory>
+ </build>
+ <repositories>
+  <repository>
+   <id>maven.aksw.internal</id>
+   <name>University Leipzig, AKSW Maven2 Repository</name>
+   <url>http://maven.aksw.org/archiva/repository/internal</url>
+            <releases/>
+  </repository>
+  <repository>
+   <id>maven.aksw.snapshots</id>
+   <name>University Leipzig, AKSW Maven2 Repository</name>
+   <url>http://maven.aksw.org/archiva/repository/snapshots</url>
+            <snapshots/>
+  </repository>
+   <repository>
+     <id>apache-repo-releases</id>
+     <url>https://repository.apache.org/content/repositories/releases/</url>
+     <releases><enabled>true</enabled></releases>
+   </repository>  
+ </repositories>
+
+<properties>
+  <maven.compiler.source>1.6</maven.compiler.source>
+  <maven.compiler.target>1.6</maven.compiler.target>
+  <!-- project defaults -->
+  <java.version>1.6</java.version>
+  <java.version.javadoc>http://java.sun.com/javase/6/docs/api/</java.version.javadoc>
+  <file.encoding>UTF-8</file.encoding>
+  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+ </properties>
+
+ <dependencies>
+  <!--******************** Jena **************************-->
+   <dependency>
+    <groupId>org.apache.jena</groupId>
+    <artifactId>jena-arq</artifactId>
+    <version>2.9.3</version>
+   </dependency>
+ <dependency>
+    <groupId>org.apache.jena</groupId>
+    <artifactId>jena-core</artifactId>
+    <version>2.7.3</version>
+   </dependency>
+
+<dependency>
+    <groupId>com.hp.hpl.jena</groupId>
+    <artifactId>arq</artifactId>
+    <version>2.8.8</version>
+</dependency>
+
+<dependency>
+ <groupId>net.sourceforge.collections</groupId>
+  <artifactId>collections-generic</artifactId>
+  <version>4.01</version>
+</dependency>
+ <!--********************  Stanford  **************************-->
+  <dependency>
+  <groupId>edu.stanford</groupId>
+  <artifactId>postagger</artifactId>
+  <version>3.0.2</version>
+ </dependency>
+ 
+  <dependency>
+      <groupId>edu.stanford.nlp</groupId>
+      <artifactId>stanford-corenlp</artifactId>
+      <version>1.3.2</version>
+    </dependency>
+<!--********************  Simmetrics  **************************-->
+    <dependency>
+      <groupId>uk.ac.shef.wit</groupId>
+      <artifactId>simmetrics</artifactId>
+      <version>1.6.2</version>
+    </dependency>
+
+    <dependency>
+      <groupId>net.sourceforge.owlapi</groupId>
+      <artifactId>owlapi</artifactId>
+      <version>3.2.4</version>
+    </dependency>
+
+  <!-- Logging -->
+<!--  <dependency>
+   <groupId>org.slf4j</groupId>
+   <artifactId>slf4j-api</artifactId>
+   <version>1.6.0</version>
+   <type>jar</type>
+   <scope>compile</scope>
+  </dependency>
+  <dependency>
+   <groupId>org.slf4j</groupId>
+   <artifactId>slf4j-log4j12</artifactId>
+   <version>1.6.0</version>
+   <type>jar</type>
+   <scope>compile</scope>
+  </dependency>
+  <dependency>
+   <groupId>log4j</groupId>
+   <artifactId>log4j</artifactId>
+   <version>1.2.14</version>
+   <type>jar</type>
+   <scope>compile</scope>
+  </dependency> -->
+ 
+  
+  <!-- lbj -->
+  <dependency>
+   <groupId>lbj</groupId>
+   <artifactId>ner</artifactId>
+   <version>1.0</version>
+  </dependency>
+
+  <!-- TODO LBJ2, LBJ2Library -->
+
+
+  <dependency>
+   <groupId>ssjoin</groupId>
+   <artifactId>ssjoin</artifactId>
+   <version>1.0</version>
+  </dependency>
+
+ </dependencies>
+
+ 
+ <distributionManagement>
+  <repository>
+   <id>maven.aksw.internal</id>
+   <name>AKSW Internal Release Repository</name>
+   <url>http://maven.aksw.org/archiva/repository/internal</url>
+  </repository>
+  <snapshotRepository>
+   <id>maven.aksw.snapshots</id>
+   <name>AKSW Snapshot Repository</name>
+   <url>http://maven.aksw.org/archiva/repository/snapshots</url>
+  </snapshotRepository>
+ </distributionManagement>
+
+ </project>
